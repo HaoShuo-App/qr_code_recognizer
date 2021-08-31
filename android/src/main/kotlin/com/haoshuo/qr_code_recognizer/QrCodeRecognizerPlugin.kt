@@ -1,4 +1,4 @@
-package com.example.qr_code_recognizer
+package com.haoshuo.qr_code_recognizer
 
 import androidx.annotation.NonNull
 

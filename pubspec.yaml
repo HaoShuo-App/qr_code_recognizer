@@ -1,7 +1,7 @@
 name: qr_code_recognizer
 description: Qr Code Recognizer
-version: 0.0.1
-homepage:
+version: 0.0.2
+homepage: https://github.com/HaoShuo-App/qr_code_recognizer
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
@@ -27,7 +27,7 @@ flutter:
   plugin:
     platforms:
       android:
-        package: com.example.qr_code_recognizer
+        package: com.haoshuo.qr_code_recognizer
         pluginClass: QrCodeRecognizerPlugin
       ios:
         pluginClass: QrCodeRecognizerPlugin
